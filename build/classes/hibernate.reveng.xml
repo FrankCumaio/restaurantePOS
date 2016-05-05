@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd">
+<hibernate-reverse-engineering>
+  <schema-selection match-catalog="sgrestaurante"/>
+  <table-filter match-name="mesas"/>
+  <table-filter match-name="funcionarios"/>
+  <table-filter match-name="morada"/>
+  <table-filter match-name="vendas_has_cliente"/>
+  <table-filter match-name="reservas"/>
+  <table-filter match-name="formaspagamento"/>
+  <table-filter match-name="identificacao"/>
+  <table-filter match-name="cliente"/>
+  <table-filter match-name="fornecedores"/>
+  <table-filter match-name="produtos"/>
+  <table-filter match-name="ingredientes"/>
+  <table-filter match-name="pedidos_has_mesas"/>
+  <table-filter match-name="usuario"/>
+  <table-filter match-name="categoriaproduto"/>
+  <table-filter match-name="categoriapratos"/>
+  <table-filter match-name="ingredientes_aux"/>
+  <table-filter match-name="vendas"/>
+  <table-filter match-name="pratos"/>
+  <table-filter match-name="pedidos"/>
+  <table-filter match-name="contacto"/>
+</hibernate-reverse-engineering>
